@@ -1,0 +1,16 @@
+#copycanvas {
+	border:1px solid #000;
+	display: none;
+}
+
+#square {
+	width: 90px;
+	height: 90px;
+	background-color: #cc3;
+	border: 1px solid #f00;
+	opacity: 0.5;
+	position: absolute;
+	z-index: 999;
+	display: none;
+	cursor: crosshair;
+}
